@@ -1,0 +1,11 @@
+.contentbg{
+    background-image: url('bg2.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:white;
+}
+.btn{background-image: url('grups.png');
+background-size: cover;
+height: 100px;}
