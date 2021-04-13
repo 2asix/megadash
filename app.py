@@ -7,5 +7,5 @@ app = Flask(__name__)
 
 @app.route('/')
 def main():
-        
-        return render_template("index.html",**locals())
+        return render_template("userForm.html",h1 = "<h1>hola</h1>",**locals())
+
